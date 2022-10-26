@@ -1,5 +1,5 @@
 ---
-title: Test Page
+title: Vacancies
 layout: page
 ---
 
