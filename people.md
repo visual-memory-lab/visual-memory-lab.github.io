@@ -19,6 +19,8 @@ layout: page
 ## Juan M. Chau
 
 
+# Masters Students
+
 ## Francesco D'Antonio
 
 
@@ -35,3 +37,6 @@ layout: page
 
 
 ## Luke Rusell
+
+
+# Undergraduate Students
