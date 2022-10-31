@@ -3,27 +3,35 @@ title: People
 layout: page
 ---
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+# Lab Head
 
-[This is a link](#)
+## Nicholas E. Myers
 
-> This is a blockquote
 
-`This is code`
+# Ph.D. Students
 
-### Bullet List
-* Item 1
-* Item 2
-* Item 3
-* Item 4
+## Uma Ajmeria
 
-### Number List
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
+
+## Mariana Lomelí
+
+
+## Juan M. Chau
+
+
+## Francesco D'Antonio
+
+
+## Prerna Mathur
+
+
+## Fraser Wright
+
+
+## Claudia Herbert
+
+
+## Kristina Nikolaeva
+
+
+## Luke Rusell
