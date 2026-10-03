@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-## People
+## Current Lab Members
 
 {% for person in site.data.people %}
 <div class="lab-member">
