@@ -10,7 +10,7 @@ author_profile: true
 {% for person in site.data.people %}
 <div class="lab-member">
 <h3 id="{{ person.name | slugify }}">{{ person.name }}</h3>
-{% if person.photo %}<img src="{{ person.photo | relative_url }}" alt="Photo of {{ person.name }}" class="lab-member__photo">{% endif %}
+<img src="{{ person.photo | default: "/images/people/placeholder.jpg" | relative_url }}" alt="{% if person.photo %}Photo of {{ person.name }}{% else %}No photo{% endif %}" class="lab-member__photo">  
 <p><strong>{{ person.role }}</strong><br>{{ person.topic }}</p>
 <p class="lab-member__links">
 {% if person.website %}<a href="{{ person.website }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a>{% endif %}
