@@ -21,11 +21,11 @@
   topic: "Neural basis of visual working memory compression (co-supervised by Dr Matias Ison)"
 
 - name: "Isabel Ellis"
-  photo: /images/people/isabel.jpg
+  photo:
   role: PhD student
   topic: "Causal Role of Brain Rhythms for Flexible Memory (co-supervised by Dr Kat Dyke and Dr JeYoung Jung)"
 
 - name: "Nathan Stuttard"
-  photo: /images/people/nathan.jpg
+  photo:
   role: PhD student
   topic: "Using Foraging Theory to Improve Visual Search in Security-Critical Situations (main supervisor: Dr Matias Ison)"
