@@ -78,6 +78,10 @@
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
+    
+    {% if post.codeurl or post.dataurl %}
+      <p>{% if post.codeurl %}<a href="{{ post.codeurl }}">Code</a>{% endif %}{% if post.codeurl and post.dataurl %} | {% endif %}{% if post.dataurl %}<a href="{{ post.dataurl }}">Data</a>{% endif %}</p>
+    {% endif %}
 
   </article>
 </div>
