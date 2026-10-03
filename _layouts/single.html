@@ -72,8 +72,8 @@ layout: default
           <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% endif %}
 
-        {% if post.codeurl or post.dataurl %}
-          <p>{% if post.codeurl %}<a href="{{ post.codeurl }}">Code</a>{% endif %}{% if post.codeurl and post.dataurl %} | {% endif %}{% if post.dataurl %}<a href="{{ post.dataurl }}">Data</a>{% endif %}</p>
+        {% if page.codeurl or page.dataurl %}
+          <p style="font-size: smaller">{% if page.codeurl %}<a href="{{ page.codeurl }}">Code</a>{% endif %}{% if page.codeurl and page.dataurl %} | {% endif %}{% if page.dataurl %}<a href="{{ page.dataurl }}">Data</a>{% endif %}</p>
         {% endif %}
         
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
