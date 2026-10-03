@@ -1,0 +1,32 @@
+- name: "Nicholas Myers"
+  photo: /images/people/nick.jpg
+  role: PI
+  topic: "Working Memory"
+  website: "https://nemyers.github.io"
+  github: nemyers
+  scholar: "https://scholar.google.com/citations?user=4Ac4HK8AAAAJ"
+
+- name: "Uma Ajmeria"
+  photo: /images/people/uma.jpg
+  role: PhD student
+  topic: "Categorisation and Interference Resolution in Visual Working Memory (co-supervised by Dr Jan Derrfuss)"
+
+- name: "Mariana Lomeli Fernandez"
+  photo: /images/people/mariana.jpg
+  role: PhD student
+  topic: "Flexible Use of Memory (co-supervised by Dr Randolph Helfrich (Yale) and Dr Domenica Veniero)"
+
+- name: "Juan Chau Delgado"
+  photo: /images/people/juan.jpg
+  role: PhD student
+  topic: "Neural basis of visual working memory compression (co-supervised by Dr Matias Ison)"
+
+- name: "Isabel Ellis"
+  photo: /images/people/isabel.jpg
+  role: PhD student
+  topic: "Causal Role of Brain Rhythms for Flexible Memory (co-supervised by Dr Kat Dyke and Dr JeYoung Jung)"
+
+- name: "Nathan Stuttard"
+  photo: /images/people/nathan.jpg
+  role: PhD student
+  topic: "Using Foraging Theory to Improve Visual Search in Security-Critical Situations (main supervisor: Dr Matias Ison)"
