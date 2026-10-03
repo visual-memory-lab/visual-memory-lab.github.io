@@ -1,7 +1,6 @@
 - name: "Nicholas Myers"
   photo: /images/people/nick.jpg
-  role: PI
-  topic: "Working Memory"
+  role: Assistant Professor  
   website: "https://nemyers.github.io"
   github: nemyers
   scholar: "https://scholar.google.com/citations?user=4Ac4HK8AAAAJ"
