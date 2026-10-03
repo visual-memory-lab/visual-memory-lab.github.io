@@ -9,39 +9,39 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Nicholas E. Myers"
+title                    : "Visual Memory Lab"
 title_separator          : "-"
-name                     : &name "Nicholas Myers"
-description              : &description "Nicholas Myers' academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://nemyers.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Visual Memory Lab"
+description              : &description "Visual Memory Lab Page"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://visual-memory-lab.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nemyers/nemyers.github.io"
+repository               : "visual-memory-lab/visual-memory-lab.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "nick.jpg"
-  name             : "Nick Myers"
-  bio              : "Cognitive Neuroscientist"
+  avatar           : "logo.png"
+  name             : 
+  bio              : "Cognitive Neuroscience<br>of Visual Memory"
   location         : 
-  employer         : "Assistant Professor<br>School of Psychology<br>University of Nottingham"
-  uri              : "https://www.nottingham.ac.uk/psychology/people/nicholas.myers"
-  email            : "nicholas.myers@nottingham.ac.uk" 
+  employer         : "School of Psychology<br>University of Nottingham"
+  uri              : 
+  email            : 
 
   # Academic websites
   academia         : 
-  googlescholar    : "https://scholar.google.com/citations?user=4Ac4HK8AAAAJ"
-  orcid            : "https://orcid.org/0000-0001-5599-3044"
+  googlescholar    : 
+  orcid            : 
 
 
   # Repositories and software development
-  github           : "nemyers"
+  github           : "visual-memory-lab"
 
   # Social media
-  bluesky          : "nick-myers.bsky.social" 
+  bluesky          : 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
