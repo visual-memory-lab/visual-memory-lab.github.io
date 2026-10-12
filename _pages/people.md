@@ -16,6 +16,9 @@ author_profile: true
 {% if person.website %}<a href="{{ person.website }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a>{% endif %}
 {% if person.github %}<a href="https://github.com/{{ person.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>{% endif %}
 {% if person.scholar %}<a href="{{ person.scholar }}"><i class="ai ai-fw ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>{% endif %}
+{% if person.bluesky %}<a href="https://bsky.app/profile/{{ person.bluesky }}"><i class="fab fa-fw fa-bluesky" aria-hidden="true"></i> Bluesky</a>{% endif %}
+{% if person.linkedin %}<a href="https://www.linkedin.com/in/{{ person.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a>{% endif %}
+{% if person.email %}<a href="mailto:{{ person.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a>{% endif %}
 </p>
 </div>
 {% endfor %}
